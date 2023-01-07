@@ -1,1 +1,1 @@
-[Link al repositorio Tema 3 Ejercicio 1: calculadora 3](https://github.com/Miquel-Rodrigo-Navarro/programacionWebEntornoCliente/tree/main/2.%20Sintaxis%20basica%20de%20JavaScript/2.%20Calculadora%20Funciones)
+[Link al repositorio Tema 3 Ejercicio 1: Calculadora](https://github.com/miquelindaws/programacionWebEntornoCliente/tree/main/3.%20Programacion%20orientada%20a%20objetos/1.%20Calculadora%20objeto)

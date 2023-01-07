@@ -876,9 +876,9 @@ console.log(filterByAge(usuarios, 59, 65));
 // utilice sort para ordenarlos de menor a mayor edad.
 
 /*
-function shortByAge(arr) {
-    return arr.sort( (a, b) => a.edad - b.edad);
-}
+    function shortByAge(arr) {
+        return arr.sort( (a, b) => a.edad - b.edad);
+    }
 
 console.log(shortByAge(usuarios));
 */
